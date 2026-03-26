@@ -52,4 +52,14 @@ markdown_extensions:
 #     - icon: simple/linkedin
 #       link: https://linkedin.com/in/willettjames
 
+nav:
+  - Home: index.md
+  - Tasks:
+      - Task 1: tasks/task1.md
+      - Task 2: tasks/task2.md
+      - Task 3: tasks/task3.md
+      - Task 4: tasks/task4.md
+  - Glossary: glossary.md
+  - Troubleshooting: troubleshooting.md
+
 copyright: Copyright &copy; 2024 James Willett
