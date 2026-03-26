@@ -1,19 +1,9 @@
-# Welcome to MkDocs
+# Obsidian tutorial
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## **Introduction**
 
-## Commands
+The purpose of this document is to teach you the basics of obsidian, a personal knowledge based and note taking app, that can come very handy to CST students who struggle with organization skills. Obsidian allows users to create diagram, tables takes notes and all kinds of fancy features
 
-- `mkdocs new [dir-name]` - Create a new project.
-- `mkdocs serve` - Start the live-reloading docs server.
-- `mkdocs build` - Build the documentation site.
-- `mkdocs -h` - Print help message and exit.
+if you are interested if all the features obsidian provides, visit link
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-
-I like to drink :beers: after i played :soccer:
+## **Guide for you?**
