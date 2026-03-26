@@ -5,8 +5,8 @@ theme:
   font:
     text: Merriweather Sans
     code: Red Hat Mono
-  logo: assets/logo.jpg
-  favicon: assets/logo.jpg
+  logo: assets/logo.png
+  favicon: assets/logo.png
   features:
     - navigation.footer
   palette:
@@ -15,16 +15,14 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Dark mode
-      primary: green
-      accent: deep purple
+      primary: deep purple
+      accent: indigo
 
     # Light Mode
     - scheme: default
       toggle:
         icon: material/weather-night
         name: Light mode
-      primary: blue
-      accent: deep orange
 
 markdown_extensions:
   - attr_list
