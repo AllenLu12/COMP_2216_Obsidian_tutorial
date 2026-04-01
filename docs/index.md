@@ -12,7 +12,18 @@ This guide is intended for CST students who have already downloaded Obsidian. Yo
 
 ## **End Results**
 
+By the end of the guide, you will be able to
+
+1. Use basic Math equations and formatting.
+2. link between notes and folders.  
+3.  
+4.  
+
 ## **Prerequisites**
+For you to be able to follow our instructions, you need the following:
+
+* A computer with MacOS, Window or Linex operating system
+* Obsidian Already downloaded
 
 ## **Typographical Conventions**
 
