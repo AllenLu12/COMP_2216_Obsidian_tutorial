@@ -25,6 +25,8 @@ theme:
         name: Light mode
 
 markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
   - attr_list
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
@@ -44,7 +46,15 @@ markdown_extensions:
       alternate_style: true
   - admonition
   - pymdownx.details
+  - tables
 
+extra_javascript:
+  - javascripts/katex.js
+  - https://unpkg.com/katex@0/dist/katex.min.js
+  - https://unpkg.com/katex@0/dist/contrib/auto-render.min.js
+
+extra_css:
+  - https://unpkg.com/katex@0/dist/katex.min.css
 # extra:
 #   social:
 #     - icon: simple/youtube
