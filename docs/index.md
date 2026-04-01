@@ -8,28 +8,30 @@ If you are interested in all of the features Obsidian provides, visit [obsidian.
 
 ## **Intended Audience**
 
-This guide is intended for CST students who have already downloaded Obsidian. You don't have to worry about having any experience in Obsidian, we will walk you through the most common tasks step by step to familiarize you with the app.
+This guide is intended for CST students who have already downloaded and installed Obsidian. You don't have to worry about having any experience in Obsidian, we will walk you through the most common tasks step by step to familiarize you with the app.
 
 ## **End Results**
 
-By the end of the guide, you will be able to
+By the end of the guide, you will be able to:
 
-1. Use basic Math equations and formatting.
-2. link between notes and folders.  
+1. [Set up Obsidian and link between notes and folders.](tasks/task1.md)
+2. [Write math equations and format text.](tasks/task2.md)
 3.  
 4.  
 
 ## **Prerequisites**
 For you to be able to follow our instructions, you need the following:
 
-* A computer with MacOS, Window or Linex operating system
-* Obsidian Already downloaded
+* A computer with MacOS, Window or Linux operating system
+* Obsidian already downloaded and installed
 
 ## **Typographical Conventions**
 
 ## **Admonitions**
 
 Throughout the guide we will use admonitions to inform you of relevant information that may be useful.
+
+[Give examples of the admonitions use]: #
 
 !!! success "Success"
 

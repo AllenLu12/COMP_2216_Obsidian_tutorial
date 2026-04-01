@@ -1,75 +1,97 @@
-# Task 2: How to start linking your notes
+# Task 2: How to format notes in Obsidian
 
-One of the main features that Obsidian provide that most other app/websites don't provide is the ability to link between different files and notes. This guide will show you how you can link between different files.
+Obsidian notes are stored as Markdown files, which have a specific way of formatting text. This task will show you all the ways to format your text.
 
-## Making a vault
+## Bolding and italicizing
 
-First thing you see right after you install obsidian is the home page, we are you going to start by showing you how to create a vault
+Surrounding text in different amounts of asterisks (\*) results in your text being italic, bold, or both, as shown in the table below.
 
-1. Click on the "create" button right next to create a new vault.
-2. Give your vault a name and a location on your computer to where you want to store it.
+| Unformatted  | Formatted  |
+| ------------ | ---------- |
+| `*Italic*`   |  *Italic*  |
+| `**Bold**`   |  **Bold**  |
+| `***Both***` | ***Both*** |
 
-## Creating Folders
+## Creating headings
 
-Now that you have created a vault, we want to Create several folders to store our notes/dates.
+Additionally, you can create headings by using the hashtag symbol \#, with more hashtags resulting in a smaller heading.
 
-1. On the top left of the screen, there should be a folder icon with a plus sign in the middle, click it and give it a name of your choice.
-2. Now repeat it three times.
+```
+# Heading 1
+## Heading 2
+### Heading 3
+```
 
-## Turn on live preview
+# Heading 1
+## Heading 2
+### Heading 3
 
-Now that you got the Folders set up, we want to turn on live preview this will allow you to see formatted text as you type, making it much more readable when writing.
+## Writing equations
 
-1. Click on the cog icon on the bottom left of your screen right next to the vaults name.
-2. Click on editor and make sure Default editing mode is on "Live Preview".
+Obsidian also uses MathJax to interpret LaTeX equations, which allows for writing complex math equations. Surrounding an equation in dollar sign symbols \$ creates a math equation, which will render inline with other text unless you use two dollar sign symbols instead. Inline: $2x+3$ `$2x+3$`
 
-## Write your first note
+```
+$$2x+3$$
+```
 
-1. Right click any one of your folders and click "New Note" give it a title of your choice.
-2. Write anything a thought, favorite food or anything you want to write.
+$$2x+3$$
 
-## How to move notes
+## Creating lists
 
-1. Drag the "Notes" that you just created and move it to another file.
+You can make numbered or bulleted lists in Obsidian by typing 1. or - and pressing space. Writing something and pressing enter will result in the next list item being created.
 
-## How to start a linking your notes
+Numbered list:
+```
+1. Numbered list item
+```
 
-1. Create any note and type two opening square brackets [[. obsidian will automatically show you a list of existing note that you can link to.
+1. Numbered list item
 
-## Linking to other notes
+Bulleted list:
+```
+- Bulleted list item
+```
 
-1. In the square brackets that you have type in the name of the notes you created in the previous step and press enter.
+- Bulleted list item
 
-???+ note "Note"
+You can even make checklists by typing - [ ] and pressing space.
 
-    Now when you click on it, it will take you straight to the note that you typed.
+## Creating tables
 
-!!! warning "Warning"
+To create tables you can either right click and select *Insert -> Table* or type vertical and horizontal bars as shown below.
 
-    You have to click on the note before clicking on the link or else you won't be able to click on it.
+```
+| Left column | Right column |
+| ----------- | ------------ |
+| Example     | Row 1        |
+| Example 2   | Row 2        |
+```
 
-## Create a new note from a link
+| Left column | Right column |
+| ----------- | ------------ |
+| Example     | Row 1        |
+| Example 2   | Row 2        |
 
-In obsidian you don't even need to create a new node in order for you to link it, you can just create a link to a non existing name and it automatically creates the note for you.
+## Writing code blocks
 
-1. Inside a existing node, type [[New idea]] and press enter. Obsidian will then instantly create that new note for you.
+To make a code block you can write three backticks (`) and optionally the programming language for highlighting, then press enter. Write your code and end the block by putting another three backticks on a new line. Alternatively, you can write inline code blocks by surrounding text in single backticks.
 
-!!! warning "Warning"
+````
+```java
+public static void main(final String[] args) {
+    List<Shape> list = ShapeLoader.loadShapes(Path.of("shapes.txt"));
+    for (Shape shape : list) {
+        System.out.println(shape);
+    }
+}
+```
+````
 
-    Make sure "New idea" or whatever you put does not exist already.
-
-## Adding a tag to notes  
-
-Another great feature in obsidian is its search function and by grouping notes up with tags, you can then just search up the tag and all the notes that include that tag will show up. This is a great alternative if you don't want to link between the notes
-
-1. at the bottom of the note add a # following with a relevant word of your choice example: #work
-
-## Backlinks panels
-
-Imagine you have been using obsidian for quite a while now, and have forgotten which notes links to what with backlinks it can help you discover connections you might have forgotten about
-
-1. Open any note and look at the top right there should be three dots click on it and there should be an option called "backlinks in document" click on that.
-
-???+ note "Note"
-
-    if there is any, it should pop up a list of other notes that are linked to the one your reading 
+```java
+public static void main(final String[] args) {
+    List<Shape> list = ShapeLoader.loadShapes(Path.of("shapes.txt"));
+    for (Shape shape : list) {
+        System.out.println(shape);
+    }
+}
+```
