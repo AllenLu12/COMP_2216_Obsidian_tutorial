@@ -6,11 +6,11 @@ The purpose of this document is to teach you the basics of Obsidian, a personal 
 
 If you are interested in all of the features Obsidian provides, visit [obsidian.md.](https://obsidian.md/)
 
-## **Guide for you?**
+## **Intended Audience**
 
-This guide is created for CST students who have already downloaded Obsidian. You don't have to worry about having any experience in Obsidian, we will walk you through step by step on the most common tasks to familiarize you with the app.
+This guide is intended for CST students who have already downloaded Obsidian. You don't have to worry about having any experience in Obsidian, we will walk you through the most common tasks step by step to familiarize you with the app.
 
-## **End results**
+## **End Results**
 
 ## **Prerequisites**
 
