@@ -18,7 +18,7 @@ Now that you have created a vault, we want to create several folders to store ou
 
 ## Turning on Live Preview
 
-Now that you got the folders set up, we want to turn on Live Preview. This will allow you to see formatted text as you type.
+Now that you have created your folder, turn on Live Preview. This will allow you to see formatted text as you type.
 
 1. Click on the cog icon on the bottom left of your screen right next to the vaults name.
 2. Click on *Editor* and make sure default editing mode is on *Live Preview*.
@@ -35,16 +35,12 @@ Now that you got the folders set up, we want to turn on Live Preview. This will 
 
 ## Linking notes
 
-1. Create any note and type two opening square brackets [[. Obsidian will automatically show you a list of existing note that you can link to.
+1. Open a note and type two opening square brackets [[. Obsidian will show a list of existing notes that you can link to.
 2. In the square brackets, type in the name of the notes you created in the previous step and press enter.
 
 ???+ note "Note"
 
-    Now when you click on it, it will take you to the note that you typed.
-
-!!! warning "Warning"
-
-    You have to click on the note before clicking on the link or else you won't be able to click on it.
+    Now when you click on the link, it will take you to the note that you selected.
 
 ## Creating a new note from a link
 

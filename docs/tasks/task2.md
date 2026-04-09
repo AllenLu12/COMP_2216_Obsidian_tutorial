@@ -4,7 +4,7 @@ Obsidian notes are stored as Markdown files, which have a specific way of format
 
 ## Bolding and italicizing
 
-Surrounding text in different amounts of asterisks (\*) results in your text being italic, bold, or both, as shown in the table below.
+1. Surround your text in 1, 2, or 3 asterisks to italicize, bold, or both. Alternatively, select your text and press Control + B to bold and Control + I to italicize.
 
 | Unformatted  | Formatted  |
 | ------------ | ---------- |
@@ -14,7 +14,10 @@ Surrounding text in different amounts of asterisks (\*) results in your text bei
 
 ## Creating headings
 
-Additionally, you can create headings by using the hashtag symbol \#, with more hashtags resulting in a smaller heading.
+Obsidian allows you to create headings using hashtags.
+
+1. Type the hashtag symbol (\#) and press space, use more hashtags for a smaller heading.
+2. Type your heading.
 
 ```
 # Heading 1
@@ -28,17 +31,25 @@ Additionally, you can create headings by using the hashtag symbol \#, with more 
 
 ## Writing equations
 
-Obsidian also uses MathJax to interpret LaTeX equations, which allows for writing complex math equations. Surrounding an equation in dollar sign symbols \$ creates a math equation, which will render inline with other text unless you use two dollar sign symbols instead. Inline: $2x+3$ `$2x+3$`
+Obsidian uses MathJax to interpret LaTeX equations, which allows for writing complex math equations. 
+
+1. Surround an equation in dollar sign symbols (\$) to create a math equation, use two dollar sign symbols instead to make it render on a new line.
+2. Write any formula (complex formulas will need to use advanced statements, refer to [MathJax Cheat Sheet for Mathematical Notation](https://jojozhuang.github.io/tutorial/mathjax-cheat-sheet-for-mathematical-notation/).)
+
+Inline: $2x+3$ `$2x+3$`
+
+$$2x+3$$
 
 ```
 $$2x+3$$
 ```
-
-$$2x+3$$
 
 ## Creating lists
 
-You can make numbered or bulleted lists in Obsidian by typing 1. or - and pressing space. Writing something and pressing enter will result in the next list item being created.
+Obsidian allows you to write lists in markdown.
+
+1. Type 1. or - and press space.
+2. Write something and press enter to create the next list item.
 
 Numbered list:
 ```
@@ -58,7 +69,8 @@ You can even make checklists by typing - [ ] and pressing space.
 
 ## Creating tables
 
-To create tables you can either right click and select *Insert -> Table* or type vertical and horizontal bars as shown below.
+1. Right click.
+2. Select *Insert -> Table*.
 
 ```
 | Left column | Right column |
@@ -74,7 +86,10 @@ To create tables you can either right click and select *Insert -> Table* or type
 
 ## Writing code blocks
 
-To make a code block you can write three backticks (`) and optionally the programming language for highlighting, then press enter. Write your code and end the block by putting another three backticks on a new line. Alternatively, you can write inline code blocks by surrounding text in single backticks.
+1. Write three backticks (`) and optionally the programming language for highlighting, then press enter. 
+2. Write your code and end the block by putting another three backticks on a new line. 
+
+Alternatively, you can write inline code blocks by surrounding text in single backticks.
 
 ````
 ```java
