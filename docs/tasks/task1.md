@@ -10,54 +10,47 @@ The first thing you see right after you install Obsidian is the home page, and t
 2. **Create** a name for your vault and **find** a location on your computer for where you want to store it.
 3. **Click** on Create.
 
-![alt text](https://s8.ezgif.com/tmp/ezgif-8d99b69f66fd6a37.gif)
+![alt text](../assets/step1.gif)
 
 ## Creating folders
 
 Now that you have created a vault, you should create several folders to store your notes.
 
-![The new folder button](../assets/obsidiannewfolder.png)
-
 1. On the top left of the screen, there should be a folder icon with a plus sign in the middle, click it and give the folder a name of your choice.
 2. **Repeat** it three times.
 
-![alt text](https://s8.ezgif.com/tmp/ezgif-8ef839111155faca.gif)
+![alt text](../assets/step2.gif)
 
 
 ## Turning on Live Preview
 
 Obsidian's Live Preview feature will allow you to see formatted text as you type it.
 
-![The settings button](../assets/obsidiansettings.png)
-![The live preview option](../assets/obsidianliveedit.png)
-
 1. **Click** on the cog icon on the bottom left of your screen right next to the vaults name.
 2. **Click** on *Editor* and make sure default editing mode is on *Live Preview*.
 
-![alt text](https://s8.ezgif.com/tmp/ezgif-857e27877fb23370.gif)
+![alt text](../assets/step3.gif)
 
 ## Writing your first note
-
-![The new note button](../assets/obsidiannewnote.png)
 
 1. **Right click** on any one of your folders and click *New note*.
 2. Give it a title of your choice.
 2. Write anything.
 
-![alt text](https://s8.ezgif.com/tmp/ezgif-8d8f43c251ddc719.gif)
+![alt text](../assets/step4.gif)
 
 ## Moving notes
 
 1. Drag the note that you just created and move it to another folder.
 
-![alt text](https://s8.ezgif.com/tmp/ezgif-8655e72fdf3164ac.gif)
+![alt text](../assets/step5.gif)
 
 ## Linking notes
 
 1. Open a note and type two opening square brackets [[. Obsidian will show a list of existing notes that you can link to.
 2. In the square brackets, type in the name of the notes you created in the previous step and press enter.
 
-![alt text](https://s7.ezgif.com/tmp/ezgif-755393cc0139e36c.gif)
+![alt text](../assets/step6.gif)
 
 ???+ note "Note"
 
@@ -69,7 +62,7 @@ In Obsidian you don't need to create a new note to link to it, you can create a 
 
 1. Inside a existing note, type [[desired name]] and press enter. Obsidian will then instantly create a new note.
 
-![alt text](https://s2.ezgif.com/tmp/ezgif-22dbdc037d7bbe72.gif)
+![alt text](../assets/step7.gif)
 
 !!! warning "Warning"
 
@@ -81,7 +74,7 @@ Another great feature in Obsidian is the search function. By grouping notes up w
 
 1. At the bottom or top of the note add a # following with a relevant word of your choice, for example: #work
 
-![alt text](https://s4.ezgif.com/tmp/ezgif-4c4df2906cca885d.gif)
+![alt text](../assets/step8.gif)
 
 ## Using backlinks
 
@@ -89,7 +82,7 @@ Imagine you have been using Obsidian for quite a while now, and have forgotten w
 
 1. Open any note and look at the top right, click on the 3 dot icon and click on the option called **Backlinks in document**.
 
-![alt text](https://s7.ezgif.com/tmp/ezgif-773c8b7a65486745.gif)
+![alt text](../assets/step9.gif)
 
 ???+ note "Note"
 
