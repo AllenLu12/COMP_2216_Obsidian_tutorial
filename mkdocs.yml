@@ -1,5 +1,5 @@
-site_name: My MkDocs Material Documentation
-site_url: https://sitename.example
+site_name: Obsidian MkDocs Material Documentation
+site_url: https://allenlu12.github.io/COMP_2216_Obsidian_tutorial/
 theme:
   name: material
   font:
@@ -65,11 +65,9 @@ extra_css:
 nav:
   - Home: index.md
   - Tasks:
-      - Task 1: tasks/task1.md
-      - Task 2: tasks/task2.md
-      - Task 3: tasks/task3.md
-      - Task 4: tasks/task4.md
+      - How to set up Obsidian and link notes: tasks/task1.md
+      - How to format notes in Obsidian: tasks/task2.md
+      - How to create and organize a knowledge base in Obsidian: tasks/task3.md
+      - How to use and add plugins in Obsidian: tasks/task4.md
   - Glossary: glossary.md
   - Troubleshooting: troubleshooting.md
-
-copyright: Copyright &copy; 2024 James Willett

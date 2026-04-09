@@ -22,16 +22,19 @@ A base is an organized database view of all the notes in a vault with an advance
 2. **Select** *New base* and give it a name, usually the name of the folder.
 3. **Click** on the *Filter* button and filter to the folder as shown.
 
+![New base](../assets/obsidiannewbase.png)
+![Base filtering menu](../assets/obsidiannewbase.png)
+
 You can add more filters, like `file full name does not end with .base` to filter out base files. You can also change the view from Table to view your notes as cards or in a list.
 
 ## Creating a home / index note
 
 A home or index note is a collection of links to important notes inside a vault / folder.
 
-![Example home note](../assets/obsidianhomenote.png)
-
 1. **Create** a new note and give it a fitting name (Index, Home).
 2. **Create** links to important notes and bases inside your home note.
+
+![Example home note](../assets/obsidianhomenote.png)
 
 You can also create index notes inside folders, then link to those from the main note.
 
