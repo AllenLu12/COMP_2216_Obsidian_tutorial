@@ -17,7 +17,7 @@ The first thing you see right after you install Obsidian is the home page, and t
 Now that you have created a vault, you should create several folders to store your notes.
 
 1. On the top left of the screen, there should be a folder icon with a plus sign in the middle
-2. click on it and give the folder a name of your choice.
+2. **Click** on it and give the folder a name of your choice.
 3. **Repeat** it three times.
 
 ![alt text](../assets/step2.gif)
@@ -34,8 +34,8 @@ Obsidian's Live Preview feature will allow you to see formatted text as you type
 ## Writing your first note
 
 1. **Right click** on any one of your folders and click *New note*.
-2. Give it a title of your choice.
-3. Write anything.
+2. **Give** it a title of your choice.
+3. **Write** anything.
 
 ![alt text](../assets/step4.gif)
 
@@ -47,8 +47,8 @@ Obsidian's Live Preview feature will allow you to see formatted text as you type
 
 ## Linking notes
 
-1. Open a note and type two opening square brackets [[. Obsidian will show a list of existing notes that you can link to.
-2. In the square brackets, type in the name of the notes you created in the previous step and press enter.
+1. **Open** a note and **type** two opening square brackets [[. Obsidian will show a list of existing notes that you can link to.
+2. In the square brackets, **type** in the name of the notes you created in the previous step and press enter.
 
 ![alt text](../assets/step6.gif)
 
@@ -60,7 +60,7 @@ Obsidian's Live Preview feature will allow you to see formatted text as you type
 
 In Obsidian you don't need to create a new note to link to it, you can create a link to the desired name and it will be automatically created.
 
-1. Inside a existing note, type [[desired name]] and press enter. Obsidian will then instantly create a new note.
+1. Inside a existing note, **type** [[desired name]] and press enter. Obsidian will then instantly create a new note.
 
 ![alt text](../assets/step7.gif)
 
@@ -72,7 +72,7 @@ In Obsidian you don't need to create a new note to link to it, you can create a 
 
 Another great feature in Obsidian is the search function. By grouping notes up with tags, you can search the tag and all the notes that include that tag will show up. This is a great alternative if you don't want to link between the notes.
 
-1. At the bottom or top of the note add a # followed by any relevant word of your choice, for example: #work
+1. At the bottom or top of the note **add** a # followed by any relevant word of your choice, for example: #work
 
 ![alt text](../assets/step8.gif)
 
@@ -80,8 +80,8 @@ Another great feature in Obsidian is the search function. By grouping notes up w
 
 Imagine you have been using Obsidian for quite a while now, and have forgotten which notes links to what. With backlinks you can rediscover connections you might have forgotten about.
 
-1. Open any note and look at the top right, click on the 3 dot icon.
-2. Select **Backlinks in document** from the menu.
+1. **Open** any note and look at the top right, **click** on the 3 dot icon.
+2. **Select** **Backlinks in document** from the menu.
 
 ![alt text](../assets/step9.gif)
 

@@ -4,9 +4,9 @@ One of the most powerful features in obsidian is **plugins**. Plugins let you ad
 
 ## Enabling Community Plugins
 
-1. Go to Setting by clicking on the gears icon on the bottom left of your screen.
-2. Click on Community Plugins.
-3. Click Turn on community plugins.
+1. **Go** to Setting by clicking on the gears icon on the bottom left of your screen.
+2. **Click** on Community Plugins.
+3. **Click** Turn on community plugins.
 
 ![alt text](../assets/step10.gif)
 
@@ -16,9 +16,9 @@ One of the most powerful features in obsidian is **plugins**. Plugins let you ad
 
 ## Searching for a Plugin
 
-1. Click on the **Browse** button while in the community plugin page.
-2. Search/find the plugin you want to install.
-3. Click on the plugin and read the description.
+1. **Click** on the **Browse** button while in the community plugin page.
+2. **Search/find** the plugin you want to install.
+3. **Click** on the plugin and read the description.
 
 ![alt text](../assets/step11.gif)
 
@@ -26,8 +26,8 @@ One of the most powerful features in obsidian is **plugins**. Plugins let you ad
 
 Once you found the plugin you want to download.
 
-1. Click install on the Plugin you want to install.
-2. Click Enable to activate it.
+1. **Click** install on the Plugin you want to install.
+2. **Click** Enable to activate it.
 
 ![alt text](../assets/step12.gif)
 
@@ -37,8 +37,8 @@ Once you found the plugin you want to download.
 
 ## Configure the Plugin
 
-1. Go to Setting.
-2. Find the Plugin name and adjust the setting to your preferences.
+1. **Go** to Setting.
+2. **Find** the Plugin name and adjust the setting to your preferences.
 
 ![alt text](../assets/step13.gif)
 
@@ -46,16 +46,16 @@ Once you found the plugin you want to download.
 
 Once you have all that set up you can finally use your Plugin just make sure to return to notes first.
 
-1. Press Cmd + P for (Mac) or Ctrl + P for (Windows) to open Command Palette.
-2. Type the plugin Name for its commands.
+1. **Press** Cmd + P for (Mac) or Ctrl + P for (Windows) to open Command Palette.
+2. **Type** the plugin Name for its commands.
 
 ![alt text](../assets/step14.gif)
 
 ## Keep Plugins Updated
 
-1. Go to Setting.
-2. Click on Community Plugin.
-3. Click on the Check for updates button and update all.
+1. **Go** to Setting.
+2. **Click** on Community Plugin.
+3. **Click** on the Check for updates button and update all.
 
 ![alt text](../assets/step15.gif)
 
@@ -65,20 +65,20 @@ Once you have all that set up you can finally use your Plugin just make sure to 
 
 ## Disable or Remove a plugin
 
-1. Go to Setting.
-2. Click on Community Plugin.
-3. Click on the show installed only.
-4. Click on the plugin you want to change.
-5. Click on disable or uninstall to remove it completely.
+1. **Go** to Setting.
+2. **Click** on Community Plugin.
+3. **Click**k on the show installed only.
+4. **Click** on the plugin you want to change.
+5. **Click** on disable or uninstall to remove it completely.
 
 ![alt text](../assets/step16.gif)
 
 ## Use Hotkeys with your plugin
 
-1. Go to Setting.
-2. Click on Hotkeys.
-3. Type in the plugin name to see all the commands.
-4. Click on the + button next to the command and press the key you want to bound it with
+1. **Go** to Setting.
+2. **Click** on Hotkeys.
+3. **Type** in the plugin name to see all the commands.
+4. **Click** on the + button next to the command and press the key you want to bound it with
 
 ![alt text](../assets/step17.gif)
 
@@ -92,10 +92,10 @@ Once you have all that set up you can finally use your Plugin just make sure to 
 
 ## Support a plugin
 
-1. Go to Setting.
-2. Click on Community Plugin.
-3. Click on Browse and find the plugin you want to rate/review.
-4. Click on the github repository link.
-5. Click on the star to show support.
+1. **Go** to Setting.
+2. **Click** on Community Plugin.
+3. **Click** on Browse and find the plugin you want to rate/review.
+4. **Click** on the github repository link.
+5. **Click** on the star to show support.
 
 ![alt text](../assets/step18.gif)
