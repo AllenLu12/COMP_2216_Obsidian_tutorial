@@ -8,7 +8,7 @@ The first thing you see right after you install Obsidian is the home page, and t
 
 1. **Click** on the *Create* button right next to create a new vault.
 2. **Create** a name for your vault and **find** a location on your computer for where you want to store it.
-3. **Click*8 on Create.
+3. **Click** on Create.
 
 ![alt text](https://s8.ezgif.com/tmp/ezgif-8d99b69f66fd6a37.gif)
 
