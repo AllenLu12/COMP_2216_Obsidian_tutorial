@@ -44,18 +44,6 @@ You can even make checklists by typing - [ ] and pressing space.
 1. Right click.
 2. Select *Insert -> Table*.
 
-```
-| Left column | Right column |
-| ----------- | ------------ |
-| Example     | Row 1        |
-| Example 2   | Row 2        |
-```
-
-| Left column | Right column |
-| ----------- | ------------ |
-| Example     | Row 1        |
-| Example 2   | Row 2        |
-
 ## Writing code blocks
 
 ![Obsidian table](../assets/obsidiancodeblock.png)
