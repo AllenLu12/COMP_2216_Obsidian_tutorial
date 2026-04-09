@@ -1,6 +1,6 @@
 # Task 1: How to set up Obsidian and link notes
 
-One of the main features that Obsidian provide that most other app/websites don't provide is the ability to link between different files and notes. This guide will show you how to set up Obsidian and link between different files.
+One of the main features that Obsidian provides that most other app or websites don't provide is the ability to link between different files and notes. This guide will show you how to set up Obsidian and link between different files.
 
 ## Making a vault
 
@@ -16,11 +16,11 @@ The first thing you see right after you install Obsidian is the home page, and t
 
 Now that you have created a vault, you should create several folders to store your notes.
 
-1. On the top left of the screen, there should be a folder icon with a plus sign in the middle, click it and give the folder a name of your choice.
-2. **Repeat** it three times.
+1. On the top left of the screen, there should be a folder icon with a plus sign in the middle
+2. click on it and give the folder a name of your choice.
+3. **Repeat** it three times.
 
 ![alt text](../assets/step2.gif)
-
 
 ## Turning on Live Preview
 
@@ -35,7 +35,7 @@ Obsidian's Live Preview feature will allow you to see formatted text as you type
 
 1. **Right click** on any one of your folders and click *New note*.
 2. Give it a title of your choice.
-2. Write anything.
+3. Write anything.
 
 ![alt text](../assets/step4.gif)
 
@@ -72,7 +72,7 @@ In Obsidian you don't need to create a new note to link to it, you can create a 
 
 Another great feature in Obsidian is the search function. By grouping notes up with tags, you can search the tag and all the notes that include that tag will show up. This is a great alternative if you don't want to link between the notes.
 
-1. At the bottom or top of the note add a # following with a relevant word of your choice, for example: #work
+1. At the bottom or top of the note add a # followed by any relevant word of your choice, for example: #work
 
 ![alt text](../assets/step8.gif)
 
@@ -80,7 +80,8 @@ Another great feature in Obsidian is the search function. By grouping notes up w
 
 Imagine you have been using Obsidian for quite a while now, and have forgotten which notes links to what. With backlinks you can rediscover connections you might have forgotten about.
 
-1. Open any note and look at the top right, click on the 3 dot icon and click on the option called **Backlinks in document**.
+1. Open any note and look at the top right, click on the 3 dot icon.
+2. Select **Backlinks in document** from the menu.
 
 ![alt text](../assets/step9.gif)
 
