@@ -1,8 +1,8 @@
-# Task 1: How to Use and Add Plugins in Obsidian
+# Task 4: How to use and add plugins in Obsidian
 
-One of the most powerful features in obsidian is **plugins**. Plugins let you add extra features to your workspace that you won't normally have, think about it like an customization options that you change to fit exactly to your preference.
+One of the most powerful features in Obsidian is its plugin support. Plugins add extra features to your vault that you wouldn't normally have, think about it like an customization options that you change to fit exactly to your preference.
 
-## Enabling Community Plugins
+## Enabling community plugins
 
 1. **Go** to Setting by clicking on the gears icon on the bottom left of your screen.
 2. **Click** on Community Plugins.
@@ -12,9 +12,9 @@ One of the most powerful features in obsidian is **plugins**. Plugins let you ad
 
 ???+ note "Note"
 
-    Obsidian automatically has this block off for new users.
+    This option is turned off by default for new users.
 
-## Searching for a Plugin
+## Searching for a plugin
 
 1. **Click** on the **Browse** button while in the community plugin page.
 2. **Search/find** the plugin you want to install.
@@ -22,7 +22,7 @@ One of the most powerful features in obsidian is **plugins**. Plugins let you ad
 
 ![alt text](../assets/step11.gif)
 
-## Installing the Plugin
+## Installing the plugin
 
 Once you found the plugin you want to download.
 
@@ -35,23 +35,23 @@ Once you found the plugin you want to download.
 
     Make sure you Enable it otherwise the Plugin won't run.
 
-## Configure the Plugin
+## Configuring the plugin
 
 1. **Go** to Setting.
 2. **Find** the Plugin name and adjust the setting to your preferences.
 
 ![alt text](../assets/step13.gif)
 
-## Using the Plugin
+## Using the plugin
 
-Once you have all that set up you can finally use your Plugin just make sure to return to notes first.
+Once you have set everything up, you can return to your notes and use the plugin.
 
 1. **Press** Cmd + P for (Mac) or Ctrl + P for (Windows) to open Command Palette.
 2. **Type** the plugin Name for its commands.
 
 ![alt text](../assets/step14.gif)
 
-## Keep Plugins Updated
+## Keeping plugins Updated
 
 1. **Go** to Setting.
 2. **Click** on Community Plugin.
@@ -63,7 +63,7 @@ Once you have all that set up you can finally use your Plugin just make sure to 
 
     If it says no plugin updates found you are up to date.
 
-## Disable or Remove a plugin
+## Disabling or removing a plugin
 
 1. **Go** to Setting.
 2. **Click** on Community Plugin.
@@ -73,7 +73,7 @@ Once you have all that set up you can finally use your Plugin just make sure to 
 
 ![alt text](../assets/step16.gif)
 
-## Use Hotkeys with your plugin
+## Using hotkeys with your plugin
 
 1. **Go** to Setting.
 2. **Click** on Hotkeys.
@@ -88,7 +88,7 @@ Once you have all that set up you can finally use your Plugin just make sure to 
 
 !!! warning "Warning"
 
-    You have to include a ⌘ or ⌥ or ⌃ before a key otherwise it won't work for (mac) and ctrl, alt, windows for (windows)
+    You have to include a ⌘, ⌥, or ⌃ at the start of the hotkey otherwise it won't work for (mac) and Ctrl, Alt, or Windows key for (windows)
 
 ## Support a plugin
 
