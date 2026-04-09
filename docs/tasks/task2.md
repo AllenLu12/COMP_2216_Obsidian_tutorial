@@ -1,6 +1,6 @@
 # Task 2: How to format notes in Obsidian
 
-Obsidian notes are stored as Markdown files, which have a specific way of formatting text. This task will show you all the ways to format your text.
+Obsidian notes are stored as Markdown files, which have a specific way of formatting text. This guide will show you all the ways to format your text.
 
 ## Bolding and italicizing
 
