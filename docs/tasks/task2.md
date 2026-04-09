@@ -4,7 +4,7 @@ Obsidian notes are stored as Markdown files, which have a specific way of format
 
 ## Bolding and italicizing
 
-1. Surround your text in 1, 2, or 3 asterisks to italicize, bold, or both. Alternatively, select your text and press Control + B to bold and Control + I to italicize.
+1. **Surround** your text in 1, 2, or 3 asterisks to italicize, bold, or both. Alternatively, select your text and press Control + B to bold and Control + I to italicize.
 
 ![Text surrounded with 1, 2, and 3 asterisks to italicize, bold, and both](../assets/obsidianasterisk.png)
 
@@ -12,8 +12,8 @@ Obsidian notes are stored as Markdown files, which have a specific way of format
 
 Obsidian allows you to create headings using hashtags.
 
-1. Type the hashtag symbol (\#) and press space, use more hashtags for a smaller heading.
-2. Type your heading.
+1. **Type** the hashtag symbol (\#) and press space, use more hashtags for a smaller heading.
+2. **Type** your heading.
 
 ![6 headings with incrementing amounts of hashtags](../assets/obsidianheadings.png)
 
@@ -21,8 +21,8 @@ Obsidian allows you to create headings using hashtags.
 
 Obsidian uses MathJax to interpret LaTeX equations, which allows for writing complex math equations. 
 
-1. Surround an equation in dollar sign symbols (\$) to create a math equation, or use two dollar sign symbols instead to make it render on a new line.
-2. Write any formula (complex formulas will need to use advanced statements, refer to [MathJax Cheat Sheet for Mathematical Notation](https://jojozhuang.github.io/tutorial/mathjax-cheat-sheet-for-mathematical-notation/).)
+1. **Surround** an equation in dollar sign symbols (\$) to create a math equation, or use two dollar sign symbols instead to make it render on a new line.
+2. **Write** any formula (complex formulas will need to use advanced statements, refer to [MathJax Cheat Sheet for Mathematical Notation](https://jojozhuang.github.io/tutorial/mathjax-cheat-sheet-for-mathematical-notation/).)
 
 ![LaTeX math equations](../assets/obsidianmath.png)
 
@@ -30,8 +30,8 @@ Obsidian uses MathJax to interpret LaTeX equations, which allows for writing com
 
 Obsidian allows you to write lists in markdown.
 
-1. Type 1. or - and press space.
-2. Write something and press enter to create the next list item.
+1. **Type** 1. or - and press space.
+2. **Write** something and press enter to create the next list item.
 
 You can even make checklists by typing - [ ] and pressing space.
 
@@ -39,15 +39,15 @@ You can even make checklists by typing - [ ] and pressing space.
 
 ## Creating tables
 
-1. Right click.
-2. Select *Insert -> Table*.
+1. **Right click** inside a note.
+2. **Click** on *Insert -> Table*.
 
 ![Obsidian table](../assets/obsidiantable.png)
 
 ## Writing code blocks
 
-1. Write three backticks (`) and optionally the programming language for highlighting, then press enter. 
-2. Write your code and end the block by putting another three backticks on a new line. 
+1. **Write** three backticks (`) and optionally the programming language for highlighting, then press enter. 
+2. **Write** your code and end the block by putting another three backticks on a new line. 
 
 ![Obsidian table](../assets/obsidiancodeblock.png)
 
