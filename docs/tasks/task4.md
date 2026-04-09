@@ -33,7 +33,7 @@ Once you found the plugin you want to download.
 
 !!! warning "Warning"
 
-    If you don't Enable it the Plugin won't run .
+    Make sure you Enable it otherwise the Plugin won't run.
 
 ## Configure the Plugin
 
