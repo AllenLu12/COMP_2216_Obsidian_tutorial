@@ -14,7 +14,9 @@ The first thing you see right after you install Obsidian is the home page, and t
 
 ## Creating folders
 
-Now that you have created a vault, we want to create several folders to store our notes.
+Now that you have created a vault, you should create several folders to store your notes.
+
+![The new folder button](../assets/obsidiannewfolder.png)
 
 1. On the top left of the screen, there should be a folder icon with a plus sign in the middle, click it and give the folder a name of your choice.
 2. **Repeat** it three times.
@@ -24,7 +26,10 @@ Now that you have created a vault, we want to create several folders to store ou
 
 ## Turning on Live Preview
 
-Now that you have created your folder, turn on Live Preview. This will allow you to see formatted text as you type.
+Obsidian's Live Preview feature will allow you to see formatted text as you type it.
+
+![The settings button](../assets/obsidiansettings.png)
+![The live preview option](../assets/obsidianliveedit.png)
 
 1. **Click** on the cog icon on the bottom left of your screen right next to the vaults name.
 2. **Click** on *Editor* and make sure default editing mode is on *Live Preview*.
@@ -32,6 +37,8 @@ Now that you have created your folder, turn on Live Preview. This will allow you
 ![alt text](https://s8.ezgif.com/tmp/ezgif-857e27877fb23370.gif)
 
 ## Writing your first note
+
+![The new note button](../assets/obsidiannewnote.png)
 
 1. **Right click** on any one of your folders and click *New note*.
 2. Give it a title of your choice.
@@ -54,11 +61,11 @@ Now that you have created your folder, turn on Live Preview. This will allow you
 
 ???+ note "Note"
 
-    Now when you click on the link, it will take you to the note that you selected.
+    Now when you click on the link, it will open the note that you selected.
 
 ## Creating a new note from a link
 
-In Obsidian you don't even need to create a new node in order for you to link it, you can just create a link to a non existing name and it automatically creates the note for you.
+In Obsidian you don't need to create a new note to link to it, you can create a link to the desired name and it will be automatically created.
 
 1. Inside a existing note, type [[desired name]] and press enter. Obsidian will then instantly create a new note.
 
@@ -70,7 +77,7 @@ In Obsidian you don't even need to create a new node in order for you to link it
 
 ## Adding a tag to a note  
 
-Another great feature in Obsidian is its search function. By grouping notes up with tags, you can search the tag and all the notes that include that tag will show up. This is a great alternative if you don't want to link between the notes.
+Another great feature in Obsidian is the search function. By grouping notes up with tags, you can search the tag and all the notes that include that tag will show up. This is a great alternative if you don't want to link between the notes.
 
 1. At the bottom or top of the note add a # following with a relevant word of your choice, for example: #work
 
@@ -86,4 +93,4 @@ Imagine you have been using Obsidian for quite a while now, and have forgotten w
 
 ???+ note "Note"
 
-    If there are any backlinks, it should show a list of other notes that are linked to the one your reading.
+    If there are any backlinks, it should show a list of other notes that are linked to the one you're reading.
