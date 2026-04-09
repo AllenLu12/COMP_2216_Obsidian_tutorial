@@ -6,24 +6,34 @@ One of the main features that Obsidian provide that most other app/websites don'
 
 The first thing you see right after you install Obsidian is the home page, and the first step is to create a vault.
 
-1. Click on the *Create* button right next to create a new vault.
-2. Give your vault a name and a location on your computer for where you want to store it.
+![Obsidian's first start screen](../assets/obsidianfirststart.png)
+
+1. Click on the purple *Create* button to create a new vault.
+2. Name your vault and set its location on your computer.
+
 
 ## Creating folders
 
-Now that you have created a vault, we want to create several folders to store our notes.
+Now that you have created a vault, you should create several folders to store your notes.
 
-1. On the top left of the screen, there should be a folder icon with a plus sign in the middle, click it and give the folder a name of your choice.
-2. Now repeat it three times.
+![The new folder button](../assets/obsidiannewfolder.png)
+
+1. Click the folder icon with a plus sign on the top left of the screen and give the folder a name of your choice.
+2. Repeat to create more folders for organization.
 
 ## Turning on Live Preview
 
-Now that you have created your folder, turn on Live Preview. This will allow you to see formatted text as you type.
+Obsidian's Live Preview feature will allow you to see formatted text as you type it.
 
-1. Click on the cog icon on the bottom left of your screen right next to the vaults name.
+![The settings button](../assets/obsidiansettings.png)
+![The live preview option](../assets/obsidianliveedit.png)
+
+1. Click on the settings icon on the bottom left of your screen next to the vault name.
 2. Click on *Editor* and make sure default editing mode is on *Live Preview*.
 
 ## Writing your first note
+
+![The new note button](../assets/obsidiannewnote.png)
 
 1. Right click any one of your folders and click *New note*.
 2. Give it a title of your choice.
@@ -35,26 +45,24 @@ Now that you have created your folder, turn on Live Preview. This will allow you
 
 ## Linking notes
 
-1. Open a note and type two opening square brackets [[. Obsidian will show a list of existing notes that you can link to.
-2. In the square brackets, type in the name of the notes you created in the previous step and press enter.
+![Creating a link](../assets/obsidianlink.png)
+
+1. Open a note and type two opening square brackets ([[). Obsidian will show a list of existing notes that you can link to.
+2. In the square brackets, type in the name of a note you created in the previous step and press enter.
 
 ???+ note "Note"
 
-    Now when you click on the link, it will take you to the note that you selected.
+    Now when you click on the link, it will open the note that you selected.
 
 ## Creating a new note from a link
 
-In Obsidian you don't even need to create a new node in order for you to link it, you can just create a link to a non existing name and it automatically creates the note for you.
+In Obsidian you don't need to create a new note to link to it, you can create a link to the desired name and it will be automatically created.
 
-1. Inside a existing note, type [[desired name]] and press enter. Obsidian will then instantly create a new note.
-
-!!! warning "Warning"
-
-    Make sure the name you put does not exist already.
+1. Inside an existing note, type [[desired name]] and press enter. Obsidian will create a new note.
 
 ## Adding a tag to a note  
 
-Another great feature in Obsidian is its search function. By grouping notes up with tags, you can search the tag and all the notes that include that tag will show up. This is a great alternative if you don't want to link between the notes.
+Another great feature in Obsidian is the search function. By grouping notes up with tags, you can search the tag and all the notes that include that tag will show up. This is a great alternative if you don't want to link between the notes.
 
 1. At the bottom or top of the note add a # following with a relevant word of your choice, for example: #work
 
@@ -66,4 +74,4 @@ Imagine you have been using Obsidian for quite a while now, and have forgotten w
 
 ???+ note "Note"
 
-    If there are any backlinks, it should show a list of other notes that are linked to the one your reading.
+    If there are any backlinks, it should show a list of other notes that are linked to the one you're reading.
