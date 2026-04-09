@@ -4,9 +4,9 @@ One of the most powerful features in Obsidian is its plugin support. Plugins add
 
 ## Enabling community plugins
 
-1. Click on the gear icon on the bottom left corner.
-2. Click on *Community plugins*.
-3. Click on *Turn on community plugins*.
+1. **Go** to Setting by clicking on the gears icon on the bottom left of your screen.
+2. **Click** on Community Plugins.
+3. **Click** Turn on community plugins.
 
 ![alt text](../assets/step10.gif)
 
@@ -16,16 +16,18 @@ One of the most powerful features in Obsidian is its plugin support. Plugins add
 
 ## Searching for a plugin
 
-1. Click on the purple *Browse* button while in the community plugins page.
-2. Search/find the plugin you want to install.
-3. Click on the plugin and read the description.
+1. **Click** on the **Browse** button while in the community plugin page.
+2. **Search/find** the plugin you want to install.
+3. **Click** on the plugin and read the description.
 
 ![alt text](../assets/step11.gif)
 
 ## Installing the plugin
 
-1. Click *Install* on the plugin you want to install.
-2. Click *Enable* to activate it.
+Once you found the plugin you want to download.
+
+1. **Click** install on the Plugin you want to install.
+2. **Click** Enable to activate it.
 
 ![alt text](../assets/step12.gif)
 
@@ -35,9 +37,8 @@ One of the most powerful features in Obsidian is its plugin support. Plugins add
 
 ## Configuring the plugin
 
-1. Go to settings by clicking on the gear icon on the bottom left of your screen.
-2. Click on *Community plugins*.
-2. Find the plugin name and adjust its settings to your preferences.
+1. **Go** to Setting.
+2. **Find** the Plugin name and adjust the setting to your preferences.
 
 ![alt text](../assets/step13.gif)
 
@@ -45,16 +46,16 @@ One of the most powerful features in Obsidian is its plugin support. Plugins add
 
 Once you have set everything up, you can return to your notes and use the plugin.
 
-1. Press Cmd + P for (Mac) or Ctrl + P for (Windows) to open the Command palette.
-2. Type the plugin's name to see all its commands.
+1. **Press** Cmd + P for (Mac) or Ctrl + P for (Windows) to open Command Palette.
+2. **Type** the plugin Name for its commands.
 
 ![alt text](../assets/step14.gif)
 
 ## Keeping plugins Updated
 
-1. Go to settings.
-2. Click on *Community plugins*.
-3. Turn on the *Automatically check for plugin updates* switch.
+1. **Go** to Setting.
+2. **Click** on Community Plugin.
+3. **Click** on the Check for updates button and update all.
 
 ![alt text](../assets/step15.gif)
 
@@ -64,20 +65,20 @@ Once you have set everything up, you can return to your notes and use the plugin
 
 ## Disabling or removing a plugin
 
-1. Go to Setting.
-2. Click on Community Plugin.
-3. Click on the show installed only.
-4. Click on the plugin you want to change.
-5. Click on disable or uninstall to remove it completely.
+1. **Go** to Setting.
+2. **Click** on Community Plugin.
+3. **Click** on the show installed only.
+4. **Click** on the plugin you want to change.
+5. **Click** on disable or uninstall to remove it completely.
 
 ![alt text](../assets/step16.gif)
 
 ## Using hotkeys with your plugin
 
-1. Go to settings.
-2. Click on *Hotkeys*.
-3. Type in the plugin name to see all the commands.
-4. Click on the + button next to the command and press the keys you want to bind it to.
+1. **Go** to Setting.
+2. **Click** on Hotkeys.
+3. **Type** in the plugin name to see all the commands.
+4. **Click** on the + button next to the command and press the key you want to bound it with
 
 ![alt text](../assets/step17.gif)
 
@@ -91,10 +92,10 @@ Once you have set everything up, you can return to your notes and use the plugin
 
 ## Support a plugin
 
-1. Go to settings.
-2. Click on *Community plugins*.
-3. Click on *Browse* and find the plugin you want to rate/review.
-4. Click on the GitHub repository link.
-5. Click on the star to show support.
+1. **Go** to Setting.
+2. **Click** on Community Plugin.
+3. **Click** on Browse and find the plugin you want to rate/review.
+4. **Click** on the github repository link.
+5. **Click** on the star to show support.
 
 ![alt text](../assets/step18.gif)

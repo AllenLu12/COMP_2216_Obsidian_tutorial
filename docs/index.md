@@ -20,6 +20,7 @@ By the end of the guide, you will be able to:
 4. [Use and add plugins](tasks/task4.md)
 
 ## **Prerequisites**
+
 For you to be able to follow our instructions, you need the following:
 
 * A computer with MacOS, Windows or Linux operating system
@@ -31,7 +32,7 @@ The following instructions followed these Typographical Conventions:
 
 | **Convention Definition** | **Example** |
 | :--- | :--- |
-| commands: bolded verbs are commands you need to perform | **Click**, **Type**, **Go**, **Create**, **Repeat**, **etc**|
+| commands: bolded verbs are commands you need to perform | **Click**, **Type**, **Go**, **Create**, **Repeat**|
 
 ## **Admonitions**
 
