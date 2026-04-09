@@ -1,1 +1,3 @@
-*Vault*: Folder containing Obsidian notes / folders
+| Term | Definition |
+| :--- | :--- |
+| **Vault** | Folder containing Obsidian notes / folders |

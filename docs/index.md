@@ -2,13 +2,13 @@
 
 ## **Introduction**
 
-The purpose of this document is to teach you the basics of Obsidian, a personal knowledge base and note taking app, that can come in very handy to CST students who struggle with organization skills. Obsidian allows users to create diagrams, tables, take notes and much more.
+The purpose of this document is to teach you the basics of Obsidian, a personal knowledge-base and note-taking app, that can come in very handy to CST students who struggle with organization. Obsidian allows users to create diagrams, tables, take notes and much more.
 
 If you are interested in all of the features Obsidian provides, visit [obsidian.md.](https://obsidian.md/)
 
 ## **Intended Audience**
 
-This guide is intended for CST students who have already downloaded and installed Obsidian. You don't have to worry about having any experience in Obsidian, we will walk you through the most common tasks step by step to familiarize you with the app.
+This guide is intended for CST students who have already downloaded and installed Obsidian. No prior experience is needed in Obsidian, we will walk you through the most common tasks step by step to familiarize you with the app.
 
 ## **End Results**
 
@@ -22,20 +22,20 @@ By the end of the guide, you will be able to:
 ## **Prerequisites**
 For you to be able to follow our instructions, you need the following:
 
-* A computer with MacOS, Window or Linux operating system
+* A computer with MacOS, Windows or Linux operating system
 * Obsidian already downloaded and installed
 
 ## **Typographical Conventions**
 
+The following instructions followed these Typographical Conventions:
+
+| **Convention Definition** | **Example** |
+| :--- | :--- |
+| commands: bolded verbs are commands you need to perform | **Click**, **Type**, **Go**, **Create**, **Repeat**, **etc**|
+
 ## **Admonitions**
 
 Throughout the guide we will use admonitions to inform you of relevant information that may be useful.
-
-[Give examples of the admonitions use]: #
-
-!!! success "Success"
-
-    The success admonition will be used to inform the reader of extra details that may be important to the reader.
 
 !!! warning "Warning"
 
