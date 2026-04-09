@@ -17,7 +17,7 @@ By the end of the guide, you will be able to:
 1. [Set up Obsidian and link between notes and folders.](tasks/task1.md)
 2. [Write math equations and format text.](tasks/task2.md)
 3. [Create and organize a knowledge base](tasks/task3.md)
-4.  
+4. [Use and Add Plugins](tasks/task4.md)
 
 ## **Prerequisites**
 For you to be able to follow our instructions, you need the following:
