@@ -6,9 +6,9 @@ One of the main features that Obsidian provide that most other app/websites don'
 
 The first thing you see right after you install Obsidian is the home page, and the first step is to create a vault.
 
-1. Click on the *Create* button right next to create a new vault.
-2. Give your vault a name and a location on your computer for where you want to store it.
-3. Click on Create.
+1. **Click** on the *Create* button right next to create a new vault.
+2. **Create** a name for your vault and **find** a location on your computer for where you want to store it.
+3. **Click*8 on Create.
 
 ![alt text](https://s8.ezgif.com/tmp/ezgif-8d99b69f66fd6a37.gif)
 
@@ -17,7 +17,7 @@ The first thing you see right after you install Obsidian is the home page, and t
 Now that you have created a vault, we want to create several folders to store our notes.
 
 1. On the top left of the screen, there should be a folder icon with a plus sign in the middle, click it and give the folder a name of your choice.
-2. Now repeat it three times.
+2. **Repeat** it three times.
 
 ![alt text](https://s8.ezgif.com/tmp/ezgif-8ef839111155faca.gif)
 
@@ -26,14 +26,14 @@ Now that you have created a vault, we want to create several folders to store ou
 
 Now that you have created your folder, turn on Live Preview. This will allow you to see formatted text as you type.
 
-1. Click on the cog icon on the bottom left of your screen right next to the vaults name.
-2. Click on *Editor* and make sure default editing mode is on *Live Preview*.
+1. **Click** on the cog icon on the bottom left of your screen right next to the vaults name.
+2. **Click** on *Editor* and make sure default editing mode is on *Live Preview*.
 
 ![alt text](https://s8.ezgif.com/tmp/ezgif-857e27877fb23370.gif)
 
 ## Writing your first note
 
-1. Right click on any one of your folders and click *New note*.
+1. **Right click** on any one of your folders and click *New note*.
 2. Give it a title of your choice.
 2. Write anything.
 
