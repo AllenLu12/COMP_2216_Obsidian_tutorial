@@ -31,7 +31,7 @@ The following instructions followed these Typographical Conventions:
 
 | **Convention Definition** | **Example** |
 | :--- | :--- |
-| commands: bolded verbs are commands you need to perform | **Click**, **Type**, **Go**, **Create**, **Repeat**, **etc**|
+| commands: bolded verbs are commands you need to perform | **Click**, **Type**, **Go**, **Create**, **Repeat**|
 
 ## **Admonitions**
 
