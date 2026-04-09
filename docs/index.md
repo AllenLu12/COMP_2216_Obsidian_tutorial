@@ -14,8 +14,8 @@ This guide is intended for CST students who have already downloaded and installe
 
 By the end of the guide, you will be able to:
 
-1. [Set up Obsidian and link between notes and folders.](tasks/task1.md)
-2. [Write math equations and format text.](tasks/task2.md)
+1. [Set up Obsidian and link between notes and folders](tasks/task1.md)
+2. [Write math equations and format text](tasks/task2.md)
 3. [Create and organize a knowledge base](tasks/task3.md)
 4. [Use and add plugins](tasks/task4.md)
 
