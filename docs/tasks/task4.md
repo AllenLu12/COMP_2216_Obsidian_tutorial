@@ -8,7 +8,7 @@ One of the most powerful features in Obsidian is its plugin support. Plugins add
 2. **Click** on Community Plugins.
 3. **Click** Turn on community plugins.
 
-![alt text](../assets/step10.gif)
+![Enabling community plugins](../assets/step10.gif "Enabling community plugins")
 
 ???+ note "Note"
 
@@ -20,7 +20,7 @@ One of the most powerful features in Obsidian is its plugin support. Plugins add
 2. **Search/find** the plugin you want to install.
 3. **Click** on the plugin and read the description.
 
-![alt text](../assets/step11.gif)
+![alt text](../assets/step11.gif "Searching for a plugin")
 
 ## Installing the plugin
 
@@ -29,7 +29,7 @@ Once you found the plugin you want to download.
 1. **Click** install on the Plugin you want to install.
 2. **Click** Enable to activate it.
 
-![alt text](../assets/step12.gif)
+![alt text](../assets/step12.gif "Installing the plugin")
 
 !!! warning "Warning"
 
@@ -40,7 +40,7 @@ Once you found the plugin you want to download.
 1. **Go** to Setting.
 2. **Find** the Plugin name and adjust the setting to your preferences.
 
-![alt text](../assets/step13.gif)
+![alt text](../assets/step13.gif "Configuring the plugin")
 
 ## Using the plugin
 
@@ -49,7 +49,7 @@ Once you have set everything up, you can return to your notes and use the plugin
 1. **Press** Cmd + P for (Mac) or Ctrl + P for (Windows) to open Command Palette.
 2. **Type** the plugin Name for its commands.
 
-![alt text](../assets/step14.gif)
+![alt text](../assets/step14.gif "Using the plugin")
 
 ## Keeping plugins Updated
 
@@ -57,7 +57,7 @@ Once you have set everything up, you can return to your notes and use the plugin
 2. **Click** on Community Plugin.
 3. **Click** on the Check for updates button and update all.
 
-![alt text](../assets/step15.gif)
+![alt text](../assets/step15.gif "Keeping plugins Updated")
 
 ???+ note "Note"
 
@@ -71,7 +71,7 @@ Once you have set everything up, you can return to your notes and use the plugin
 4. **Click** on the plugin you want to change.
 5. **Click** on disable or uninstall to remove it completely.
 
-![alt text](../assets/step16.gif)
+![alt text](../assets/step16.gif "Disabling or removing a plugin")
 
 ## Using hotkeys with your plugin
 
@@ -80,7 +80,7 @@ Once you have set everything up, you can return to your notes and use the plugin
 3. **Type** in the plugin name to see all the commands.
 4. **Click** on the + button next to the command and press the key you want to bound it with
 
-![alt text](../assets/step17.gif)
+![alt text](../assets/step17.gif "Using hotkeys with your plugin")
 
 ???+ note "Note"
 
@@ -98,4 +98,4 @@ Once you have set everything up, you can return to your notes and use the plugin
 4. **Click** on the github repository link.
 5. **Click** on the star to show support.
 
-![alt text](../assets/step18.gif)
+![alt text](../assets/step18.gif "Support a plugin")
