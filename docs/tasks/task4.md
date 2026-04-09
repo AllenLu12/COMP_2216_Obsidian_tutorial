@@ -67,7 +67,7 @@ Once you have set everything up, you can return to your notes and use the plugin
 
 1. **Go** to Setting.
 2. **Click** on Community Plugin.
-3. **Click**k on the show installed only.
+3. **Click** on the show installed only.
 4. **Click** on the plugin you want to change.
 5. **Click** on disable or uninstall to remove it completely.
 
