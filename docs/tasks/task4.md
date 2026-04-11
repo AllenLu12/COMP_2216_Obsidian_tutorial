@@ -1,12 +1,12 @@
-# Task 4: How to Use and add plugins in Obsidian
+# Task 4: How to Use and Add Plugins in Obsidian
 
-One of the most powerful features in Obsidian is its plugin support. Plugins add extra features to your vault that you wouldn't normally have, think about it like a customization option that you tailor to fit exactly your exact preference.
+One of the most powerful features in Obsidian is its plugin support. Plugins add extra features to your vault that you wouldn't normally have think of them as a customization option that you can tailor to fit your exact preference.
 
-## Enabling Community plugins
+## Enabling Community Plugins
 
-1. **Go** to Settings by clicking on the gears icon in the bottom left of your screen.
+1. **Go** to Settings by clicking on the gear icon in the bottom left of your screen.
 2. **Click** on Community Plugins.
-3. **Click** Turn on community plugins.
+3. **Click** Turn on Community Plugins.
 
 ![Enabling community plugins](../assets/step10.gif "Enabling community plugins")
 
@@ -16,8 +16,8 @@ One of the most powerful features in Obsidian is its plugin support. Plugins add
 
 ## Searching for a plugin
 
-1. **Click** on the **Browse** button while on the community Plugins page.
-2. **Search/find** the plugin you want to install.
+1. **Click** on the **Browse** button while on the Community Plugins page.
+2. **Search** for the plugin you want to install.
 3. **Click** on the plugin and read its description.
 
 ![Searching for a plugin](../assets/step11.gif "Searching for a plugin")
@@ -26,19 +26,19 @@ One of the most powerful features in Obsidian is its plugin support. Plugins add
 
 Once you have found the plugin you want to download:
 
-1. **Click** Install on the Plugin you want to install.
+1. **Click** Install on the plugin you want to install.
 2. **Click** Enable to activate it.
 
 ![Installing the plugin](../assets/step12.gif "Installing the plugin")
 
 !!! warning "Warning"
 
-    Make sure you Enable it otherwise the Plugin won't run.
+    Make sure you enable it, otherwise the plugin won't run.
 
 ## Configuring the plugin
 
 1. **Go** to Settings.
-2. **Find** the Plugin name and adjust the settings to your preferences.
+2. **Find** the plugin name and adjust the settings to your preferences.
 
 ![Configuring the plugin](../assets/step13.gif "Configuring the plugin")
 
@@ -47,7 +47,7 @@ Once you have found the plugin you want to download:
 Once you have set everything up, you can return to your notes and use the plugin.
 
 1. **Press** Cmd + P (Mac) or Ctrl + P (Windows) to open the Command Palette.
-2. **Type** the plugin Name to see its available commands.
+2. **Type** the plugin name to see its available commands.
 
 ![Using the plugin](../assets/step14.gif "Using the plugin")
 
@@ -67,7 +67,7 @@ Once you have set everything up, you can return to your notes and use the plugin
 
 1. **Go** to Settings.
 2. **Click** on Community Plugins.
-3. **Click** on Show installed Only.
+3. **Click** on Show Installed Only.
 4. **Click** on the plugin you want to change.
 5. **Click** on Disable or Uninstall to remove it completely.
 
@@ -95,7 +95,7 @@ Once you have set everything up, you can return to your notes and use the plugin
 1. **Go** to Settings.
 2. **Click** on Community Plugins.
 3. **Click** on Browse and find the plugin you want to support.
-4. **Click** on the Github repository link.
+4. **Click** on the GitHub repository link.
 5. **Click** on the star icon to show your support.
 
 ![Support a plugin](../assets/step18.gif "Support a plugin")
