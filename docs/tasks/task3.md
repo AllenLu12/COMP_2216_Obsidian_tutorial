@@ -23,7 +23,7 @@ A base is an organized database view of all the notes in a vault with an advance
 3. **Click** on the *Filter* button and filter to the folder as shown.
 
 ![New base](../assets/obsidiannewbase.png "New base")
-![Base filtering menu](../assets/obsidiannewbase.png "Base filtering menu")
+![Base filtering menu](../assets/obsidianbasefilter.png "Base filtering menu")
 
 You can add more filters, like `file full name does not end with .base` to filter out base files. You can also change the view from Table to view your notes as cards or in a list.
 
