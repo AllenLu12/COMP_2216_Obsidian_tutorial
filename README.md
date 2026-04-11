@@ -9,7 +9,7 @@ This documentation will guide you with detailed step-by-step instructions on usi
 
 ## How we collaborated
 
-We decided to split up the work and assign eachother an equal amount of tasks and other pages. We used Discord as our main communication tool while working on this documentation. We also used GitHub for version control.
+We decided to split up the work and assign each other an equal amount of tasks and other pages. We used Discord as our main communication tool while working on this documentation. We also used GitHub for version control.
 
 ## Creating the guide
 

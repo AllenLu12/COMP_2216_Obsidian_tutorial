@@ -1,10 +1,10 @@
-# Task 4: How to use and add plugins in Obsidian
+# Task 4: How to Use and add plugins in Obsidian
 
-One of the most powerful features in Obsidian is its plugin support. Plugins add extra features to your vault that you wouldn't normally have, think about it like an customization options that you change to fit exactly to your preference.
+One of the most powerful features in Obsidian is its plugin support. Plugins add extra features to your vault that you wouldn't normally have, think about it like a customization option that you tailor to fit exactly your exact preference.
 
-## Enabling community plugins
+## Enabling Community plugins
 
-1. **Go** to Setting by clicking on the gears icon on the bottom left of your screen.
+1. **Go** to Settings by clicking on the gears icon in the bottom left of your screen.
 2. **Click** on Community Plugins.
 3. **Click** Turn on community plugins.
 
@@ -16,20 +16,20 @@ One of the most powerful features in Obsidian is its plugin support. Plugins add
 
 ## Searching for a plugin
 
-1. **Click** on the **Browse** button while in the community plugin page.
+1. **Click** on the **Browse** button while on the community Plugins page.
 2. **Search/find** the plugin you want to install.
-3. **Click** on the plugin and read the description.
+3. **Click** on the plugin and read its description.
 
-![alt text](../assets/step11.gif "Searching for a plugin")
+![Searching for a plugin](../assets/step11.gif "Searching for a plugin")
 
 ## Installing the plugin
 
-Once you found the plugin you want to download.
+Once you have found the plugin you want to download:
 
-1. **Click** install on the Plugin you want to install.
+1. **Click** Install on the Plugin you want to install.
 2. **Click** Enable to activate it.
 
-![alt text](../assets/step12.gif "Installing the plugin")
+![Installing the plugin](../assets/step12.gif "Installing the plugin")
 
 !!! warning "Warning"
 
@@ -37,65 +37,69 @@ Once you found the plugin you want to download.
 
 ## Configuring the plugin
 
-1. **Go** to Setting.
-2. **Find** the Plugin name and adjust the setting to your preferences.
+1. **Go** to Settings.
+2. **Find** the Plugin name and adjust the settings to your preferences.
 
-![alt text](../assets/step13.gif "Configuring the plugin")
+![Configuring the plugin](../assets/step13.gif "Configuring the plugin")
 
 ## Using the plugin
 
 Once you have set everything up, you can return to your notes and use the plugin.
 
-1. **Press** Cmd + P for (Mac) or Ctrl + P for (Windows) to open Command Palette.
-2. **Type** the plugin Name for its commands.
+1. **Press** Cmd + P (Mac) or Ctrl + P (Windows) to open the Command Palette.
+2. **Type** the plugin Name to see its available commands.
 
-![alt text](../assets/step14.gif "Using the plugin")
+![Using the plugin](../assets/step14.gif "Using the plugin")
 
 ## Keeping plugins Updated
 
-1. **Go** to Setting.
-2. **Click** on Community Plugin.
-3. **Click** on the Check for updates button and update all.
+1. **Go** to Settings.
+2. **Click** on Community Plugins.
+3. **Click** on the Check for Updates button and update all.
 
-![alt text](../assets/step15.gif "Keeping plugins Updated")
+![Keeping plugins Updated](../assets/step15.gif "Keeping plugins Updated")
 
 ???+ note "Note"
 
-    If it says no plugin updates found you are up to date.
+    If it says no plugin updates were found, you are up to date.
 
 ## Disabling or removing a plugin
 
-1. **Go** to Setting.
-2. **Click** on Community Plugin.
-3. **Click** on the show installed only.
+1. **Go** to Settings.
+2. **Click** on Community Plugins.
+3. **Click** on Show installed Only.
 4. **Click** on the plugin you want to change.
-5. **Click** on disable or uninstall to remove it completely.
+5. **Click** on Disable or Uninstall to remove it completely.
 
-![alt text](../assets/step16.gif "Disabling or removing a plugin")
+![Disabling or removing a plugin](../assets/step16.gif "Disabling or removing a plugin")
 
 ## Using hotkeys with your plugin
 
-1. **Go** to Setting.
+1. **Go** to Settings.
 2. **Click** on Hotkeys.
-3. **Type** in the plugin name to see all the commands.
-4. **Click** on the + button next to the command and press the key you want to bound it with
+3. **Type** in the plugin name to see all of its commands.
+4. **Click** the + button next to the command and press the key combination you want to bind it to.
 
-![alt text](../assets/step17.gif "Using hotkeys with your plugin")
+![Using hotkeys with your plugin](../assets/step17.gif "Using hotkeys with your plugin")
 
 ???+ note "Note"
 
-    Now when you press the key you bound it with it will automatically run that command.
+    Once a hotkey is bound, pressing the key combination will automatically run the associated command.
 
 !!! warning "Warning"
 
-    You have to include a ⌘, ⌥, or ⌃ at the start of the hotkey otherwise it won't work for (mac) and Ctrl, Alt, or Windows key for (windows)
+    You must include a ⌘, ⌥, or ⌃ at the start of the hotkey on Mac,or Ctrl, Alt, or Windows key on Windows, otherwise the hotkey won't work.
 
-## Support a plugin
+## Supporting a plugin
 
-1. **Go** to Setting.
-2. **Click** on Community Plugin.
-3. **Click** on Browse and find the plugin you want to rate/review.
-4. **Click** on the github repository link.
-5. **Click** on the star to show support.
+1. **Go** to Settings.
+2. **Click** on Community Plugins.
+3. **Click** on Browse and find the plugin you want to support.
+4. **Click** on the Github repository link.
+5. **Click** on the star icon to show your support.
 
-![alt text](../assets/step18.gif "Support a plugin")
+![Support a plugin](../assets/step18.gif "Support a plugin")
+
+## Conclusion
+
+Congratulations! You now have a solid understanding of how plugins work in Obsidian. From installing and configuring plugins to setting up custom hotkeys and keeping everything up to date. You now have the skills to fully customize the default workspace into your own personal workspace.

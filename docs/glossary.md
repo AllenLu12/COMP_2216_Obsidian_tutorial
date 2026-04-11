@@ -7,4 +7,4 @@
 | **Community plugin** | Extra features created by other users that you can add in obsidian. |
 | **Note** | A document where you write and store information. |
 | **Command Palette** | A search menu to quickly run and find commands. |
-| **Backlink** | A lists of notes that link to the note you are currently on. |
+| **Back link** | A lists of notes that link to the note you are currently on. |

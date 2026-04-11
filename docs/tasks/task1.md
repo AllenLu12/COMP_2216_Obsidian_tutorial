@@ -16,7 +16,7 @@ The first thing you see right after you install Obsidian is the home page, and t
 
 Now that you have created a vault, you should create several folders to store your notes.
 
-1. On the top left of the screen, there should be a folder icon with a plus sign in the middle
+1. **Click** on the folder icon with a plus sign in the middle, on the left of your screen
 2. **Click** on it and give the folder a name of your choice.
 3. **Repeat** it three times.
 
@@ -41,7 +41,7 @@ Obsidian's Live Preview feature will allow you to see formatted text as you type
 
 ## Moving notes
 
-1. Drag the note that you just created and move it to another folder.
+1. **Drag** the note that you just created and move it to another folder.
 
 ![Moving notes](../assets/step5.gif "Moving notes")
 
@@ -88,3 +88,7 @@ Imagine you have been using Obsidian for quite a while now, and have forgotten w
 ???+ note "Note"
 
     If there are any back links, it should show a list of other notes that are linked to the one you're reading.
+
+## Conclusion
+
+You should now know how to set up your obsidian and link notes, and other beginning a tag to the note and a bunch of advance stuff.
